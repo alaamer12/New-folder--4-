@@ -1,0 +1,15 @@
+.class {
+ background-color: rgba(31, 152, 112, 0.8);
+ border-color: beige;
+ border-style: dashed;
+ border-top: 500px;
+ border: 500px;
+ font-size: large;
+ font-style: 2000px;
+ font-weight: 8000;
+ font: bolder;
+ margin: 10px;
+ padding: 150px;
+ stroke: antiquewhite;
+ text-align: center;
+}
